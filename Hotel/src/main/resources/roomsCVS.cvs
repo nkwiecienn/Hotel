@@ -1,0 +1,16 @@
+roomNumber;description;price;free;firstName;secondName;Age
+101;super room;115;1;;;
+102;very nice room;120;1;;;
+103;great room;150;1;;;
+104;mid room;90;1;;;
+105;fine room;95;1;;;
+201;good room;100;1;;;
+202;quite nice room;98;1;;;
+203;big room;150;0;jan;maj;23
+204;small room;85;1;;;
+205;cool room;110;1;;;
+301;beautiful room;130;1;;;
+302;cute room;120;1;;;
+303;sweet room;110;0;Natalia;Kwiecien;20
+304;mild room;80;1;;;
+305;the nicest room in the world;180;0;Oliwier;Maj;20
